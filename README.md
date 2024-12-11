@@ -17,7 +17,7 @@ Welcome to the **College Attendance Tracker App** repository! 🎉 This app is d
 
 ## 🖼️ Screenshots
 
-![Attendance Tracker UI](https://via.placeholder.com/800x400?text=Screenshot+1)  
+![Attendance Tracker UI](Screenshots/2.png)  
 _A sleek and intuitive interface to make tracking attendance a breeze._
 
 ![Detailed Receipt](https://via.placeholder.com/800x400?text=Screenshot+2)  
