@@ -17,11 +17,12 @@ Welcome to the **College Attendance Tracker App** repository! 🎉 This app is d
 
 ## 🖼️ Screenshots
 
+![Detailed Receipt](Screenshots/7.png)  
+_A sleek and intuitive interface for Subject, Timetable, Mark-Attendance and Summary management section._
+
 ![Attendance Tracker UI](Screenshots/2.png)  
 _A sleek and intuitive interface to make tracking attendance a breeze._
-
-![Detailed Receipt](Screenshots/7.png)  
-_A detailed summary of your attendance stats, perfect for printing or saving._
+_A detailed summary of your attendance stats, perfect for printing or saving export function._
 
 ---
 
